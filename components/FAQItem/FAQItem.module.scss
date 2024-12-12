@@ -53,10 +53,8 @@
   }
 
   a {
-    -webkit-text-fill-color: transparent;
-    background-image: linear-gradient(90deg, violet 62%, #ff863e);
-    -webkit-background-clip: text;
-    background-clip: text;
+    color: #ffffff;
+    text-decoration: underline;
   }
 
   &.open {

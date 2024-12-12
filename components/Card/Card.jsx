@@ -21,8 +21,6 @@ export default function Card({ title, subtitle }) {
     <div ref={ref} className={`${styles.card} ${hasBeenVisible ? styles.visible : ''}`}>
       <div className={styles.title}>{title}</div>
       <p>{subtitle}</p>
-
-      <div className={styles.cardBg}></div>
     </div>
   );
 }

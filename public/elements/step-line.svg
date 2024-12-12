@@ -1,10 +1,6 @@
-<svg width="1200" height="492" viewBox="0 0 1200 492" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M25.2147 2C205.714 70.9617 1166.5 8.74737 1166.5 117.247C1166.5 202.012 -185.851 90.4347 25.2147 219C307.111 326.555 1198 239.271 1198 326C1198 412.729 286.251 417.463 56 490" stroke="url(#paint0_linear_8_2)" stroke-width="4" stroke-dasharray="20 20"/>
-<defs>
-<linearGradient id="paint0_linear_8_2" x1="537.691" y1="-63.2958" x2="537.691" y2="2035.4" gradientUnits="userSpaceOnUse">
-<stop stop-color="#EE82EE"/>
-<stop offset="0.745" stop-color="#C502E0"/>
-<stop offset="1" stop-color="#00D1FF"/>
-</linearGradient>
-</defs>
+<svg width="1118" height="707" viewBox="0 0 1118 707" fill="none" xmlns="http://www.w3.org/2000/svg">
+<line x1="0.628939" y1="0.591397" x2="1092.91" y2="130.644" stroke="#43A7F1" stroke-dasharray="20 20"/>
+<line x1="13.0711" y1="350.505" x2="1101.88" y2="507.009" stroke="#43A7F1" stroke-dasharray="20 20"/>
+<line x1="12.5483" y1="348.754" x2="1090.68" y2="130.495" stroke="#43A7F1" stroke-dasharray="20 20"/>
+<line x1="12.9122" y1="706.508" x2="1117.87" y2="509.508" stroke="#43A7F1" stroke-dasharray="20 20"/>
 </svg>

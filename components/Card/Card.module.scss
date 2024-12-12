@@ -4,7 +4,7 @@
   opacity: 0;
     z-index: 2;
     text-align: center;
-    background-color: #727272;
+    background: linear-gradient(138deg, #ff007a, #70a1ff);
     border-radius: 20px;
     flex-direction: column;
     flex: 1;
@@ -40,15 +40,6 @@
   
     p {
       font-size: 20px;
-    }
-
-    .cardBg {
-      z-index: -1;
-      filter: blur(20px);
-      background-image: conic-gradient(from 105deg, violet 0%, #ff863e 25%, #c502e0 75%, #00d1ff 100%);
-      border-radius: 20px;
-      position: absolute;
-      inset: 0%;
     }
 }
  

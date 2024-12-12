@@ -23,8 +23,6 @@ export default function TestimonialCard({ text, name, image }) {
         <Image src={image} alt={name} width={50} height={50}/>
         <span>{name}</span>
       </div>
-
-      <div className={styles.cardBg}></div>
     </div>
   );
 }

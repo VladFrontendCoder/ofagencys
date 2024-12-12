@@ -13,7 +13,7 @@ const stepsData = [
   { number: 4, text: "Передача/створення сторінки", align: "center" },
   { number: 5, text: "Налаштування платіжної системи", align: "left" },
   { number: 6, text: "Побудова плану по розвитку сторінки", align: "right" },
-  { number: 7, text: "Старт роботи та перші результати", align: "center" },
+  { number: 7, text: "Старт роботи та перші результати", align: "left" },
 ];
 
 export default function StepsSection() {
@@ -23,7 +23,7 @@ export default function StepsSection() {
   const [hasBeenVisible, setHasBeenVisible] = useState(false);
   const [bgHeight, setBgHeight] = useState(0); 
 
-  const startOffset = 0.90;
+  const startOffset = 0.80;
 
   useEffect(() => {
     const handleScroll = () => {

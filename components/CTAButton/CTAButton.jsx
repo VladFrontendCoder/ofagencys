@@ -19,8 +19,6 @@ export default function CTAButton({ href, children }) {
   return (
     <Link href={href} ref={ref} className={`${styles.btn} ${hasBeenVisible ? styles.visible : ''}`}>
       {children}
-
-      <div className={styles.ctaBg}></div>
     </Link>
   );
 }
